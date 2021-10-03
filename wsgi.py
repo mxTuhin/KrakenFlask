@@ -7,4 +7,4 @@ if __name__ == "__main__":
   args = parser.parse_args()
 
 
-  webapp.app.run(host="0.0.0.0", port=args.port)  # debug=True causes Restarting with stat
+  webapp.app.run()  # debug=True causes Restarting with stat
