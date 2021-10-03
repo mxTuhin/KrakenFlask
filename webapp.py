@@ -41,5 +41,5 @@ def predict():
     return render_template("index.html")
 print("Current Directory")
 print (os.getcwd())
-model = torch.hub.load('yolo', 'custom', path=os.path.abspath("weights/best.pt"), source='local')  # local repo
+model = torch.hub.load('yolo', 'custom', path="best.pt", source='local')  # local repo
 model.eval()
