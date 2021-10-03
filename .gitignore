@@ -1,6 +1,7 @@
 venv/
 .vscode
-*.pt
+# *.pt
 #*.jpg
 static/tmp.jpg
 *.pyc
+weights/
