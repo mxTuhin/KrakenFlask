@@ -3,15 +3,15 @@ This repo contains example apps for exposing the [yolo5](https://github.com/ultr
 
 ## Web app
 This Yolo5 System detects Marine Debris. Uploaded to Heroku with Flask Visit<br>
-https://kraken-flask.herokuapp.com/static/image0.jpg
+https://kraken-flask.herokuapp.com/
 
 
 <p align="center">
-<img src="https://github.com/mxTuhin/KrakenFlask/KrakenFlask.png" width="450">
+<img src="https://user-images.githubusercontent.com/28976846/135770657-d4785a90-f04e-4eff-9bbc-88e6243a2453.png" width="450">
 </p>
 
 <p align="center">
-<img src="https://github.com/mxTuhin/debris.png" width="450">
+<img src="https://user-images.githubusercontent.com/28976846/135770595-c85acb64-04a0-4840-8730-dc4b7851e9d1.png" width="450">
 </p>
 
 
