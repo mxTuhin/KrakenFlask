@@ -1,3 +1,6 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 flask
 requests
 black
@@ -8,8 +11,7 @@ opencv-python>=4.1.2
 Pillow
 PyYAML>=5.3.1
 scipy>=1.4.1
-https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp38-cp38-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.9.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+
 tqdm>=4.41.0
 
 tensorboard>=2.4.1
