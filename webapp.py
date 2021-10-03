@@ -40,5 +40,5 @@ def predict():
 
     return render_template("index.html")
 
-model = torch.hub.load('yolo', 'custom', path='best.pt', source='local')  # local repo
+model = torch.hub.load('yolo', 'custom', path=os.path.abspath("best.pt"), source='local')  # local repo
 model.eval()
