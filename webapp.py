@@ -10,8 +10,6 @@ from PIL import Image
 import torch
 from flask import Flask, render_template, request, redirect
 
-import wsgi
-
 app = Flask(__name__)
 
 
